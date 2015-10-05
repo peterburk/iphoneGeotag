@@ -7,6 +7,7 @@ iPhone Geotag uses the iPhone location to tag Places for your photos in iPhoto a
 Download it here: 
 https://raw.githubusercontent.com/peterburk/iphoneGeotag/master/iPhoneGeotag.zip
 
+<img class="aligncenter" alt="iPhone GE Logo" src="https://raw.githubusercontent.com/peterburk/iphoneGeotag/master/Icons/iPhoneGEIcon.png" width="128">
 
 iPhoneGE uses the iPhone location to make a Google Earth map. It is the first freely-available program of this kind compatible with iOS 3.
 
