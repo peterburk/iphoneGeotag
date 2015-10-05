@@ -1,6 +1,6 @@
 # iPhone Geotag
 
-<img class="aligncenter" alt="iPhone Geotag Logo" src="https://raw.githubusercontent.com/peterburk/iphoneGeotag/master/Icon/iPhoneGeotagIcon.png" width="128">
+<img class="aligncenter" alt="iPhone Geotag Logo" src="https://raw.githubusercontent.com/peterburk/iphoneGeotag/master/Icons/iPhoneGeotagIcon.png" width="128">
 
 iPhone Geotag uses the iPhone location to tag Places for your photos in iPhoto and Aperture. It uses AppleScript, Apple’s high-level API into every Mac application.
 
